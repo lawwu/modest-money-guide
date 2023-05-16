@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Modest Money Guide
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This blog’s modest goal is to help people, young Christians especially, make wise and God-honoring decisions with their money. It is written by Lawrence Wu, who works as a data scientist, and has always had an interest in personal finance, money and investing from a young age. 
 
-## Commands
+Articles:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [Personal Finance Workshop](personal_finance_workshop.md) - a post version of a 1-hour personal finance and stewardship talk I’ve walked through with some people
+- [About Modest Money Guide](about.md)
