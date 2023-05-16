@@ -1,6 +1,6 @@
 # Modest Money Guide
 
-This blog’s modest goal is to help people, young Christians especially, make wise and God-honoring decisions with their money. It is written by Lawrence Wu, who works as a data scientist, and has always had an interest in personal finance, money and investing from a young age. 
+This site's modest goal is to help people, young Christians especially, make wise and God-honoring decisions with their money. It is written by Lawrence Wu, who works as a data scientist, and has always had an interest in personal finance, money and investing from a young age. 
 
 Articles:
 

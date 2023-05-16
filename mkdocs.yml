@@ -1,4 +1,12 @@
-site_name: My Docs
+site_name: Modest Money Guide
 
 theme:
   name: material
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Personal Finance Workshop: personal_finance_workshop.md
+
+repo_name: "lawwu/modest-money-guide"
+repo_url: "https://github.com/lawwu/modest-money-guide"
