@@ -26,12 +26,12 @@ The New Testament doesn’t have any commands about how much to give. There is n
 
 10% of your gross income starting point, based on the Old Testament idea of a tithe, which means 10 percent. But this is by no means a minimum nor a maximum. One cannot say that another believer is sinning if he does not meet this threshold of giving. However, the reason I say 10% of your gross income is a good starting point is in my experience, it’s never been a comfortable level of giving. There have been times where I’ve thought, wouldn’t it be nice to save more (and implicitly give less)? But the commitment I’ve made to Christ is this tithe that I give represents my understanding that everything is from God. “Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change.” (James 1:17) And when I give to Him, it is an expression of gratitude.
 
-Another question to ask while giving is how are you giving? “Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.” (2 Cor 9:7) God wants us to give cheerfully, not begrudgingly. 
+Another question to ask while giving is how are you giving? “Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.” (2 Cor 9:7) God wants us to give cheerfully, not begrudgingly.
 
 
 ### Who to give to?
 
-There are so many good causes and organizations one can give to. For the Christian though, the local church should be the place where your giving goes. Galatians 6:6 says, “Nevertheless, the one who receives instruction in the word should share all good things with their instructor.” 
+There are so many good causes and organizations one can give to. For the Christian though, the local church should be the place where your giving goes. Galatians 6:6 says, “Nevertheless, the one who receives instruction in the word should share all good things with their instructor.”
 Randy Alcorn in this [sermon](https://www.epm.org/resources/2010/Feb/25/practice-tithing-minimum-standard-christian-giving/) says:
 
 > Into the “storehouse.” This was something in Israel that you didn’t decide for yourself. The whole tithe went into the temple, for the work of the Levites. Closest parallel today to the temple is the church, the closest parallel to the Levites is the elders of the church. (You see that in Acts 2 in Jerusalem, where it says the money was laid at the feet of the apostles, who then decided how to distribute it.)
@@ -96,18 +96,22 @@ In the context of Christian personal finance, the line item of charitable giving
 The act of tracking and understanding your spending is not merely a financial exercise. It's a spiritual discipline that enables us to live responsibly, generously, and contentedly. It's about ensuring our financial decisions align with our Christian values, helping us live out our faith in a tangible way.
 
 ### Use YNAB or a spreadsheet
-(Insert images for two rules and link to Google sheets version)
 
 Implementing a budgeting tool can greatly enhance your financial management and offer a clear picture of where your money is going. Two such tools include YNAB (You Need A Budget) and Google Sheets, each with their unique benefits.
 
-YNAB is a powerful budgeting software that operates under four main rules. The first two rules are particularly insightful for managing personal finances from a Christian perspective. The first rule, "Give Every Dollar a Job," encourages us to be intentional with our resources. Much like the biblical principle of stewardship, this rule compels us to allocate every dollar to a specific purpose, ensuring that our money is used wisely and purposefully.
+YNAB is a powerful budgeting software that operates under four main rules. The first two rules are particularly insightful for managing personal finances from a Christian perspective. 
+
+![YNAB - Rule One](./images/ynab_rule1.png)
+
+The first rule, "Give Every Dollar a Job," encourages us to be intentional with our resources. Much like the biblical principle of stewardship, this rule compels us to allocate every dollar to a specific purpose, ensuring that our money is used wisely and purposefully.
+
+![YNAB - Rule Two](./images/ynab_rule1.png)
 
 The second rule, "Embrace Your True Expenses," pushes us to look beyond immediate or daily expenses and plan for larger, less frequent costs. This could include annual insurance payments, car maintenance, or unexpected medical bills. By setting money aside each month for these 'true expenses,' we cultivate a habit of foresight and preparedness, helping us avoid debt and financial stress. I’ve found this rule to be particularly helpful in decreasing the amount of stress when an infrequent large expense pops up. 
 
 One can do something similar with Google Sheets (using a template like this [one](https://michaelsaves.com/budgeting/google-sheets-budget-template/)). You won’t have the ability to automatically import transactions and a nice UI, but for those getting started, it will probably suffice.
 
 Regardless of the tool you choose, the ultimate goal is to gain control over your finances, live within your means, and align your spending with your values. By doing so, we honor God with our resources, demonstrating faithfulness and wisdom in our financial stewardship.
-
 
 ### Housing
 
