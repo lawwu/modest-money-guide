@@ -187,7 +187,7 @@ Insurance is a crucial part of financial planning, providing a safety net for un
 3. **Auto insurance covers** costs related to vehicle accidents or damages.
 4. **Life insurance** provides financial support to your dependents in the event of your death. There are two primary types: term life and permanent life insurance.
 
-- **Term life insurance** is recommended for most individuals. It covers a specified term, typically 20-30 years, and has no cash value. To get a quote for term life insurance, you can visit websites like [Term4Sale](www.term4sale.com)
+- **Term life insurance** is recommended for most individuals. It covers a specified term, typically 20-30 years, and has no cash value. To get a quote for term life insurance, you can visit websites like [Term4Sale](https://www.term4sale.com)
 - **Permanent life insurance** lasts your entire lifetime and has a cash value component. One form of permanent life insurance, Whole Life, is often more expensive due to high premiums and fees. It can also be difficult to determine what portion of your payments is used for the insurance and what accumulates as cash value. A common recommendation is to buy term insurance and invest the difference, as this often results in a better financial outcome.
 - **Renters/Homeowners insurance** covers losses or damages to your home and personal belongings.
 - **Umbrella insurance** provides additional liability coverage beyond the limits of your other insurance policies.
