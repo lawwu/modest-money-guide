@@ -10,3 +10,19 @@ nav:
 
 repo_name: "lawwu/modest-money-guide"
 repo_url: "https://github.com/lawwu/modest-money-guide"
+
+extra:
+  analytics:
+    provider: google
+    property: G-MNND6F5QRQ
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
