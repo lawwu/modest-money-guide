@@ -22,7 +22,7 @@ The end of a calendar year is usually a good time to do some financial housekeep
 
 **Consider a Roth Conversion**: The deadline to convert a traditional IRA to a Roth IRA is December 29, 2023. This involves paying taxes now on the converted amount, but future withdrawals from the Roth IRA would be tax free.
 
-**Donate to Charity**: As the year ends, consider donating to charities that align with your values. Ensure that the charities are qualified for tax deductions if you plan to itemize your deductions. Remember, donations aren’t limited to cash; you can also donate goods or appreciated securities. 
+**Donate to Charity**: As the year ends, consider donating to charities. Remember, donations aren’t limited to cash; you can also donate goods or appreciated securities. In 2023, you can deduct 60% of your AGI (adjusted gross income). This is limited to 30% of AGI for non-cash contributions like appreciated stock.
 
 **Consider Donating Appreciated Shares**: On the topic of donating appreciated shares, donating securities that have increased in value, like stocks or mutual funds, to charity is a strategic financial move, especially if you've held them for over a year. This approach allows you to avoid paying capital gains taxes on the increase in value since you purchased them. Moreover, if you itemize deductions, you can also claim a tax deduction for the full fair market value of the shares at the time of the donation. This double benefit makes donating appreciated shares one of the most tax-efficient ways to support charitable causes. It's a win-win situation: you maximize your contribution to the charity while minimizing your tax liability.
 
