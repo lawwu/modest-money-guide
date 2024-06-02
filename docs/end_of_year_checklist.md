@@ -1,49 +1,53 @@
 # End of Year Financial Checklist
 
-- Last Updated: 2023-12-21
+!!! info
+    
+    Last Updated: 2023-12-21
 
 The end of a calendar year is usually a good time to do some financial housekeeping. It's better to consider these things at the end of the year because there are some things if you don't take advantage of before the end of the year (e.g. FSAs or tax loss harvesting), you lose the opportunity to do so.
 
-# Use FSA or Other Use-It-or-Lose-It Funds
+## Use FSA or Other Use-It-or-Lose-It Funds
 
 Spend any remaining funds in your Flexible Spending Account (FSA) or similar accounts, as these funds often expire at year's end. This is a good time to make eligible purchases such as prescription glasses, dental work, or other qualifying healthcare expenses. (Deadline is December 31st)
 
-# Tax Loss Harvesting
+## Tax Loss Harvesting
 
 If you have investments that have a loss, you can sell them to realize losses and use them to either offset capital gains or write off up to $3,000 (in 2023) of losses against income like wages. If you have more than $3,000 you can also carry forward your losses and deduct them in future tax years.
 
-# Maximize Retirement Contributions
+## Maximize Retirement Contributions
 
 Max out contributions to retirement accounts like 401(k)s and IRAs (Traditional or Roth) to boost retirement savings and potentially lower your taxable income. The deadline for 401k contributions is December 31st. The deadline to contribute to an IRA is the following tax due date. For 2023 contributions, this would be April 15, 2024. If your income is too high to contribute to a Roth IRA, you can always do a [Backdoor Roth IRA](https://thefinancebuff.com/the-backdoor-roth-ira-a-complete-how-to.html).
 
-# Analyze your investment performance
+## Analyze your investment performance
 
 Evaluate your investments and consider rebalancing to maintain your desired asset allocation. If you aren't invested in index funds, compare your returns against an appropriate benchmark like the S&P500 to evaluate any under or overpeformance. I use Empower's Personal Dashboard with my investment accounts linked to calculate this for me. 2023 has been a good year for buy a hold investors like myself. My underperformance to the S&P500 is largely explained by my allocation to international (30%). If you're interested, you can sign up for Empower using this [referral link](https://empowerreferral.link/lawrencewu).
 
 ![2023 Returns](./images/end_of_year_checklist/empower_returns_2023.png)
 
-# Rebalance Investments
+## Rebalance Investments
 
 If your investments aren't in a one-fund solution that automatically rebalances, manually adjust your portfolio to maintain your desired asset allocation. This helps in managing risk and ensuring your investment strategy stays on track.
 
-# Cancel Unused Subscriptions**: Review and cancel any subscriptions or memberships you no longer use. This can lead to significant savings by eliminating recurring, often overlooked expenses.
+## Cancel Unused Subscriptions
 
-# Update your Net Worth Statement
+Review and cancel any subscriptions or memberships you no longer use. This can lead to significant savings by eliminating recurring, often overlooked expenses.
+
+## Update your Net Worth Statement
 
 I have a spreadsheet where I track my net worth each year. This involves calculating the total value of all your assets (such as cash, investments, property) and subtracting your liabilities (like loans, credit card debt). This exercise provides a clear picture of your financial health and helps track progress towards your financial goals. It can also reveal areas that need attention, such as high debt levels or underperforming investments, guiding your financial decisions for the upcoming year. I also use [Empower](https://empowerreferral.link/lawrencewu) to quickly find the balances of all of my asset and liability accounts.
 
-# Consider a Roth Conversion
+## Consider a Roth Conversion
 The deadline to convert a traditional IRA to a Roth IRA is December 29, 2023. This involves paying taxes now on the converted amount, but future withdrawals from the Roth IRA would be tax free.
 
-# Donate to Charity
+## Donate to Charity
 
 As the year ends, consider donating to charities. Remember, donations aren’t limited to cash; you can also donate goods or appreciated securities. In 2023, you can deduct 60% of your AGI (adjusted gross income). This is limited to 30% of AGI for non-cash contributions like appreciated stock.
 
-# Consider Donating Appreciated Shares
+## Consider Donating Appreciated Shares
 
 On the topic of donating appreciated shares, donating securities that have increased in value, like stocks or mutual funds, to charity is a strategic financial move, especially if you've held them for over a year. This approach allows you to avoid paying capital gains taxes on the increase in value since you purchased them. Moreover, if you itemize deductions, you can also claim a tax deduction for the full fair market value of the shares at the time of the donation. This double benefit makes donating appreciated shares one of the most tax-efficient ways to support charitable causes. It's a win-win situation: you maximize your contribution to the charity while minimizing your tax liability.
 
-# Consider Donation Bunching
+## Consider Donation Bunching
 
 This strategy involves consolidating multiple years' worth of charitable donations into a single year. The idea is to exceed the standard deduction in that year, making it possible to itemize deductions and gain a larger tax benefit. For example, if you typically donate annually, you might choose to bunch two or more years' worth of donations into one year. 
 
