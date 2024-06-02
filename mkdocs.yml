@@ -2,11 +2,19 @@ site_name: Modest Money Guide
 
 theme:
   name: material
-
+  features:
+    - toc.follow
+    - navigation.top
+  icon:
+    admonition:
+      note: fontawesome/solid/note-sticky
+      abstract: fontawesome/solid/book
+      info: fontawesome/solid/circle-info
 nav:
   - Home: index.md
   - About: about.md
   - Personal Finance Workshop: personal_finance_workshop.md
+  - End of Year Checklist: end_of_year_checklist.md
 
 repo_name: "lawwu/modest-money-guide"
 repo_url: "https://github.com/lawwu/modest-money-guide"
@@ -15,3 +23,8 @@ extra:
   analytics:
     provider: google
     property: G-MNND6F5QRQ
+
+markdown_extensions:
+- admonition
+- pymdownx.details
+- pymdownx.superfences
