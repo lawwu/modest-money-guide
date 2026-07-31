@@ -1,5 +1,12 @@
 # End of Year Financial Checklist
 
+!!! info "This page has moved"
+
+    The current version of this checklist lives at
+    [End-of-year financial checklist](https://lawrencewu.net/guides/financial/end-of-year-checklist/)
+    and is kept up to date there. The version below is from 2023 — in particular, the
+    donation bunching section predates the 2025 SALT cap change.
+
 !!! info
     
     Last Updated: 2023-12-21

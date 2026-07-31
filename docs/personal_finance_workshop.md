@@ -1,5 +1,32 @@
 # Personal Finance Workshop
 
+!!! info "This page has moved"
+
+    This workshop now lives at
+    [lawrencewu.net/guides/financial](https://lawrencewu.net/guides/financial/), split
+    into lessons and kept up to date there. Some figures below (tax brackets, HSA
+    limits, I-Bond rates) are out of date; the guide has current numbers.
+
+    Where each section went:
+
+    | Section here | Lesson in the guide |
+    | --- | --- |
+    | Giving | [Giving: how much, and to whom](https://lawrencewu.net/guides/financial/giving/) |
+    | Career & Income | [Career and income](https://lawrencewu.net/guides/financial/career-and-income/) |
+    | Spending | [Spending and contentment](https://lawrencewu.net/guides/financial/spending/) |
+    | Use YNAB or a spreadsheet | [Set up a budget](https://lawrencewu.net/guides/financial/budgeting/) |
+    | Housing | [Decide whether to rent or buy](https://lawrencewu.net/guides/financial/rent-vs-buy/) |
+    | Credit Cards, Student Loans | [Use credit cards wisely](https://lawrencewu.net/guides/financial/debt/) |
+    | Insurance | [Insurance and HSAs](https://lawrencewu.net/guides/financial/insurance/) |
+    | Savings (warnings, trusting God) | [Saving and trusting God](https://lawrencewu.net/guides/financial/saving-and-trusting-god/) |
+    | Saving tips, I-Bonds, 529s | [Build your savings](https://lawrencewu.net/guides/financial/build-your-savings/) |
+    | Taxes | [Taxes: brackets, deductions, credits](https://lawrencewu.net/guides/financial/taxes/) |
+    | Investing | [Investing basics](https://lawrencewu.net/guides/financial/investing-basics/) |
+    | Passive vs. Active Investing | [The case for index funds](https://lawrencewu.net/guides/financial/index-funds/) |
+    | Investment accounts, portfolios | [How to invest](https://lawrencewu.net/guides/financial/how-to-invest/) |
+    | Recommendations | [Get started](https://lawrencewu.net/guides/financial/get-started/) |
+    | Resources | [Recommended resources and books](https://lawrencewu.net/guides/financial/resources/) |
+
 This is a post version of a 1-hour [personal finance and stewardship talk](https://docs.google.com/presentation/d/1Y_KYVqd1ORIodRG60iIL6mNTuYHcFk6bXBS4b_q25uM/edit) I’ve shared with some Christians: Personal Finance Workshop. The talk goes through the following topics:
 
 - Giving
