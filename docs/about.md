@@ -1,5 +1,11 @@
 # About
 
+!!! info "This site has moved"
+
+    The guide now lives at
+    [lawrencewu.net/guides/financial](https://lawrencewu.net/guides/financial/). This
+    site is archived and no longer updated.
+
 ## Why Modest Money Guide?
 I believe money is an important though not all important part of life. Money can buy physical things and to be sure a certain amount of happiness (the [research](https://money.com/ideal-income-study/) shows around $75,000 of income is ideal). But money cannot buy ultimate happiness. There are many people who have more money they can spend but still are not happy with life. I was motivated to start writing this blog after I found myself answering money related questions to some of my friends and those at church. I figured since I didn't want to keep repeating myself ([DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)), why not just write my thoughts down on a blog and put this content out there. 
 
